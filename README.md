@@ -1,2 +1,3 @@
-This is a simple UNIX command interpreter.
-A project for the ALX Software Engineering Program.
+#0x16. C - Simple Shell
+- Collaborative project between Bouchra Aouane and Doutimiebi Richard-Jack
+- Simple C shell.
